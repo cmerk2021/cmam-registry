@@ -1,0 +1,5 @@
+# This is an EXAMPLE manifest. Files named "example.toml" are excluded from
+# the generated index. Copy it to apps/<your-app>.toml and edit the fields.
+name = "wgo"
+description = "WireGuard tunnel manager TUI for Linux written in Go"
+repo = "cmerk2021/wgo"
