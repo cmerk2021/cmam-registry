@@ -1,0 +1,7 @@
+[
+  {
+    "name": "wgo",
+    "description": "WireGuard tunnel manager TUI for Linux written in Go",
+    "repo": "cmerk2021/wgo"
+  }
+]
