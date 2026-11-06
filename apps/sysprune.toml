@@ -1,0 +1,3 @@
+name = "sysprune"
+description = "A safety-first, interactive terminal app for Linux (systemd-based distros) that helps you audit system resource usage"
+repo = "cmerk2021/sysprune"
