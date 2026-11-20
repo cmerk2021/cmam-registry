@@ -1,5 +1,10 @@
 [
   {
+    "name": "nag",
+    "description": "Simple reminder CLI written in Go",
+    "repo": "cmerk2021/nag"
+  },
+  {
     "name": "navigo",
     "description": "A simple, distraction-free Navidrome music player for Linux",
     "repo": "cmerk2021/navigo"
